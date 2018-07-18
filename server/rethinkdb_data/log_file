@@ -1,0 +1,94 @@
+2018-07-08T22:09:07.036427000 3.137321s notice: Recursively removing directory /Users/admin/projects/rent4ps/server/rethinkdb_data/tmp
+2018-07-08T22:09:07.039155000 3.140054s notice: Initializing directory /Users/admin/projects/rent4ps/server/rethinkdb_data
+2018-07-08T22:09:07.039537000 3.140429s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/admin/projects/rent4ps/server/rethinkdb_data' did not already exist or is empty.)
+2018-07-08T22:09:07.039853000 3.140745s notice: Running rethinkdb 2.3.6 (CLANG 9.0.0 (clang-900.0.37))...
+2018-07-08T22:09:07.049972000 3.150866s notice: Running on Darwin 17.5.0 x86_64
+2018-07-08T22:09:07.050039000 3.150931s notice: Loading data from directory /Users/admin/projects/rent4ps/server/rethinkdb_data
+2018-07-08T22:09:07.102730000 3.203623s info: Automatically using cache size of 199 MB
+2018-07-08T22:09:07.107352000 3.208245s notice: Listening for intracluster connections on port 29015
+2018-07-08T22:09:07.114537000 3.215430s notice: Listening for client driver connections on port 28015
+2018-07-08T22:09:07.114701000 3.215594s notice: Listening for administrative HTTP connections on port 8080
+2018-07-08T22:09:07.115669000 3.216562s notice: Listening on cluster addresses: 127.0.0.1, 10.0.1.3, ::1, fe80::1%1, fe80::869:2e17:7928:bde8%8, fe80::2cf3:693f:6e56:48d5%16, fe80::719c:6242:166d:308d%17, fe80::d489:9fff:fee3:61ff%10, fe80::d69c:8e19:a9e:b201%14
+2018-07-08T22:09:07.116527000 3.217420s notice: Listening on driver addresses: 127.0.0.1, 10.0.1.3, ::1, fe80::1%1, fe80::869:2e17:7928:bde8%8, fe80::2cf3:693f:6e56:48d5%16, fe80::719c:6242:166d:308d%17, fe80::d489:9fff:fee3:61ff%10, fe80::d69c:8e19:a9e:b201%14
+2018-07-08T22:09:07.117378000 3.218271s notice: Listening on http addresses: 127.0.0.1, 10.0.1.3, ::1, fe80::1%1, fe80::869:2e17:7928:bde8%8, fe80::2cf3:693f:6e56:48d5%16, fe80::719c:6242:166d:308d%17, fe80::d489:9fff:fee3:61ff%10, fe80::d69c:8e19:a9e:b201%14
+2018-07-08T22:09:07.117384000 3.218278s notice: Server ready, "evgenjin_ddns_net_854" a711341c-0719-4cf0-a74d-5883e0a33d31
+2018-07-15T00:34:53.843480000 3.130710s notice: Running rethinkdb 2.3.6 (CLANG 9.0.0 (clang-900.0.37))...
+2018-07-15T00:34:53.852215000 3.139442s notice: Running on Darwin 17.5.0 x86_64
+2018-07-15T00:34:53.852292000 3.139517s notice: Loading data from directory /Users/admin/projects/rent4ps/server/rethinkdb_data
+2018-07-15T00:34:53.871902000 3.159128s info: Automatically using cache size of 397 MB
+2018-07-15T00:34:53.872939000 3.160164s notice: Listening for intracluster connections on port 29015
+2018-07-15T00:34:53.874937000 3.162163s notice: Listening for client driver connections on port 28015
+2018-07-15T00:34:53.875092000 3.162318s notice: Listening for administrative HTTP connections on port 8080
+2018-07-15T00:34:53.875094000 3.162320s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2018-07-15T00:34:53.875100000 3.162325s notice: Listening on driver addresses: 127.0.0.1, ::1
+2018-07-15T00:34:53.875101000 3.162326s notice: Listening on http addresses: 127.0.0.1, ::1
+2018-07-15T00:34:53.875108000 3.162334s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-07-15T00:34:53.875116000 3.162342s notice: Server ready, "evgenjin_ddns_net_854" a711341c-0719-4cf0-a74d-5883e0a33d31
+2018-07-15T00:34:56.983813000 6.271114s notice: Server got SIGINT from pid 13958, uid 502; shutting down...
+2018-07-15T00:34:56.984069000 6.271371s notice: Shutting down client connections...
+2018-07-15T00:34:56.984218000 6.271519s notice: All client connections closed.
+2018-07-15T00:34:56.984227000 6.271528s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2018-07-15T00:34:56.988459000 6.275761s notice: Storage engine shut down.
+2018-07-15T00:35:05.596097000 0.009789s notice: Running rethinkdb 2.3.6 (CLANG 9.0.0 (clang-900.0.37))...
+2018-07-15T00:35:05.602285000 0.015981s notice: Running on Darwin 17.5.0 x86_64
+2018-07-15T00:35:05.602371000 0.016058s notice: Loading data from directory /Users/admin/projects/rent4ps/server/rethinkdb_data
+2018-07-15T00:35:05.619474000 0.033161s info: Automatically using cache size of 404 MB
+2018-07-15T00:35:05.624260000 0.037948s notice: Listening for intracluster connections on port 29015
+2018-07-15T00:35:05.627292000 0.040979s notice: Listening for client driver connections on port 28015
+2018-07-15T00:35:05.627506000 0.041193s notice: Listening for administrative HTTP connections on port 8080
+2018-07-15T00:35:05.628491000 0.042179s notice: Listening on cluster addresses: 127.0.0.1, 10.0.1.3, ::1, fe80::1%1, fe80::eb:64a:4d57:73aa%8, fe80::a8e3:eff:fece:10d4%10, fe80::f5d2:2beb:717a:541c%14
+2018-07-15T00:35:05.629425000 0.043112s notice: Listening on driver addresses: 127.0.0.1, 10.0.1.3, ::1, fe80::1%1, fe80::eb:64a:4d57:73aa%8, fe80::a8e3:eff:fece:10d4%10, fe80::f5d2:2beb:717a:541c%14
+2018-07-15T00:35:05.630450000 0.044138s notice: Listening on http addresses: 127.0.0.1, 10.0.1.3, ::1, fe80::1%1, fe80::eb:64a:4d57:73aa%8, fe80::a8e3:eff:fece:10d4%10, fe80::f5d2:2beb:717a:541c%14
+2018-07-15T00:35:05.630471000 0.044158s notice: Server ready, "evgenjin_ddns_net_854" a711341c-0719-4cf0-a74d-5883e0a33d31
+2018-07-15T00:35:54.512086000 48.926958s notice: Someone asked for the nonwhitelisted file "/sockjs-node/info".  If this should be accessible, add it to the static web assets.
+2018-07-15T11:01:06.527793000 37561.815655s info: Table 6e714f5f-97be-4978-b40a-0f823d490a6a: Starting a new Raft election for term 1.
+2018-07-15T11:01:06.529112000 37561.816974s info: Table 6e714f5f-97be-4978-b40a-0f823d490a6a: Added replica on this server.
+2018-07-15T11:01:06.533847000 37561.821710s info: Table 6e714f5f-97be-4978-b40a-0f823d490a6a: This server is Raft leader for term 1. Latest log index is 0.
+2018-07-15T11:02:08.345494000 37623.634825s info: Table 26e12ffb-60ce-47b4-93ba-9474b0762496: Starting a new Raft election for term 1.
+2018-07-15T11:02:08.345720000 37623.635051s info: Table 26e12ffb-60ce-47b4-93ba-9474b0762496: Added replica on this server.
+2018-07-15T11:02:08.348817000 37623.638149s info: Table 26e12ffb-60ce-47b4-93ba-9474b0762496: This server is Raft leader for term 1. Latest log index is 0.
+2018-07-15T21:37:48.278001000 75764.456286s notice: Someone asked for the nonwhitelisted file "/cgi/webcgi".  If this should be accessible, add it to the static web assets.
+2018-07-16T08:48:31.296367000 116008.400492s notice: Someone asked for the nonwhitelisted file "/HNAP1/".  If this should be accessible, add it to the static web assets.
+2018-07-16T20:26:58.825493000 0.134148s notice: Running rethinkdb 2.3.6 (CLANG 9.0.0 (clang-900.0.37))...
+2018-07-16T20:26:58.836734000 0.145386s notice: Running on Darwin 17.5.0 x86_64
+2018-07-16T20:26:58.836846000 0.145496s notice: Loading data from directory /Users/admin/projects/rent4ps/server/rethinkdb_data
+2018-07-16T20:26:58.863434000 0.172085s info: Automatically using cache size of 100 MB
+2018-07-16T20:26:58.863447000 0.172098s warn: Cache size does not leave much memory for server and query overhead (available memory: 744 MB).
+2018-07-16T20:26:58.863465000 0.172115s warn: Cache size is very low and may impact performance.
+2018-07-16T20:26:58.864769000 0.173420s notice: Listening for intracluster connections on port 29015
+2018-07-16T20:26:58.908082000 0.216734s notice: Listening for client driver connections on port 28015
+2018-07-16T20:26:58.908239000 0.216891s notice: Listening for administrative HTTP connections on port 8080
+2018-07-16T20:26:58.908300000 0.216952s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2018-07-16T20:26:58.908304000 0.216955s notice: Listening on driver addresses: 127.0.0.1, ::1
+2018-07-16T20:26:58.908307000 0.216958s notice: Listening on http addresses: 127.0.0.1, ::1
+2018-07-16T20:26:58.908310000 0.216961s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-07-16T20:26:58.908313000 0.216965s notice: Server ready, "evgenjin_ddns_net_854" a711341c-0719-4cf0-a74d-5883e0a33d31
+2018-07-16T20:27:00.521440000 1.830129s info: Table 26e12ffb-60ce-47b4-93ba-9474b0762496: Starting a new Raft election for term 2.
+2018-07-16T20:27:00.526737000 1.835426s info: Table 26e12ffb-60ce-47b4-93ba-9474b0762496: This server is Raft leader for term 2. Latest log index is 2.
+2018-07-16T20:27:00.889924000 2.198621s info: Table 6e714f5f-97be-4978-b40a-0f823d490a6a: Starting a new Raft election for term 2.
+2018-07-16T20:27:00.893063000 2.201760s info: Table 6e714f5f-97be-4978-b40a-0f823d490a6a: This server is Raft leader for term 2. Latest log index is 2.
+2018-07-16T20:27:12.418286000 13.727243s notice: Server got SIGINT from pid 13958, uid 502; shutting down...
+2018-07-16T20:27:12.418479000 13.727436s notice: Shutting down client connections...
+2018-07-16T20:27:12.418568000 13.727524s notice: All client connections closed.
+2018-07-16T20:27:12.418574000 13.727530s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2018-07-16T20:27:12.427629000 13.736588s notice: Storage engine shut down.
+2018-07-16T20:27:17.168063000 0.009435s notice: Running rethinkdb 2.3.6 (CLANG 9.0.0 (clang-900.0.37))...
+2018-07-16T20:27:17.179530000 0.020898s notice: Running on Darwin 17.5.0 x86_64
+2018-07-16T20:27:17.179600000 0.020967s notice: Loading data from directory /Users/admin/projects/rent4ps/server/rethinkdb_data
+2018-07-16T20:27:17.198623000 0.039990s info: Automatically using cache size of 100 MB
+2018-07-16T20:27:17.198635000 0.040002s warn: Cache size does not leave much memory for server and query overhead (available memory: 736 MB).
+2018-07-16T20:27:17.198642000 0.040009s warn: Cache size is very low and may impact performance.
+2018-07-16T20:27:17.201514000 0.042881s notice: Listening for intracluster connections on port 29015
+2018-07-16T20:27:17.246207000 0.087578s notice: Listening for client driver connections on port 28015
+2018-07-16T20:27:17.246771000 0.088139s notice: Listening for administrative HTTP connections on port 8080
+2018-07-16T20:27:17.248488000 0.089857s notice: Listening on cluster addresses: 127.0.0.1, 10.0.1.3, ::1, fe80::1%1, fe80::eb:64a:4d57:73aa%8, fe80::5f75:8268:5bf:7297%15, fe80::a8e3:eff:fece:10d4%10, fe80::ccb3:7c94:1887:399c%16, fe80::f5d2:2beb:717a:541c%14
+2018-07-16T20:27:17.249634000 0.091003s notice: Listening on driver addresses: 127.0.0.1, 10.0.1.3, ::1, fe80::1%1, fe80::eb:64a:4d57:73aa%8, fe80::5f75:8268:5bf:7297%15, fe80::a8e3:eff:fece:10d4%10, fe80::ccb3:7c94:1887:399c%16, fe80::f5d2:2beb:717a:541c%14
+2018-07-16T20:27:17.250901000 0.092270s notice: Listening on http addresses: 127.0.0.1, 10.0.1.3, ::1, fe80::1%1, fe80::eb:64a:4d57:73aa%8, fe80::5f75:8268:5bf:7297%15, fe80::a8e3:eff:fece:10d4%10, fe80::ccb3:7c94:1887:399c%16, fe80::f5d2:2beb:717a:541c%14
+2018-07-16T20:27:17.250913000 0.092281s notice: Server ready, "evgenjin_ddns_net_854" a711341c-0719-4cf0-a74d-5883e0a33d31
+2018-07-16T20:27:18.776440000 1.617843s info: Table 26e12ffb-60ce-47b4-93ba-9474b0762496: Starting a new Raft election for term 3.
+2018-07-16T20:27:18.782342000 1.623745s info: Table 26e12ffb-60ce-47b4-93ba-9474b0762496: This server is Raft leader for term 3. Latest log index is 5.
+2018-07-16T20:27:18.980239000 1.821647s info: Table 6e714f5f-97be-4978-b40a-0f823d490a6a: Starting a new Raft election for term 3.
+2018-07-16T20:27:18.984573000 1.825981s info: Table 6e714f5f-97be-4978-b40a-0f823d490a6a: This server is Raft leader for term 3. Latest log index is 5.
+2018-07-17T00:28:55.233601000 14498.328439s notice: Someone asked for the nonwhitelisted file "/manager/html".  If this should be accessible, add it to the static web assets.
+2018-07-17T08:30:35.236160000 43398.855339s notice: Someone asked for the nonwhitelisted file "/admin-console/".  If this should be accessible, add it to the static web assets.
+2018-07-17T10:02:30.207054000 48913.993854s notice: Someone asked for the nonwhitelisted file "/manager/html".  If this should be accessible, add it to the static web assets.
